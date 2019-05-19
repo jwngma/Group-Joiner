@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_all_groups"
+            android:icon="@drawable/menu_icon"
+            android:checkable="true"
+            android:title="All Groups" />
+        <item
+            android:id="@+id/nav_photography"
+            android:icon="@drawable/menu_icon"
+            android:checkable="true"
+            android:title="PhotoGraphy" />
+        <item
+            android:id="@+id/nav_business"
+            android:icon="@drawable/menu_icon"
+            android:checkable="true"
+            android:title="Business " />
+        <item
+            android:id="@+id/nav_buy_n_sell"
+            android:icon="@drawable/menu_icon"
+            android:checkable="true"
+            android:title="Buy And Sell " />
+        <item
+            android:id="@+id/nav_community"
+            android:icon="@drawable/menu_icon"
+            android:checkable="true"
+            android:title="Community " />
+        <item
+            android:id="@+id/nav_social_friends"
+            android:icon="@drawable/menu_icon"
+            android:checkable="true"
+            android:title="Social Friends" />
+    </group>
+
+    <item
+        android:checkable="true"
+        android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share_icon"
+                android:checkable="true"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/rate_icon"
+                android:checkable="true"
+                android:title="Rate us " />
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "356669424919",
+    "firebase_url": "https://groupjoiner-79d32.firebaseio.com",
+    "project_id": "groupjoiner-79d32",
+    "storage_bucket": "groupjoiner-79d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356669424919:android:9fcd8b2a6c788ce3",
+        "android_client_info": {
+          "package_name": "com.joiner.groupjoiner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356669424919-sp0d35j19u1piuirl2f22vtgichvvijc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joiner.groupjoiner",
+            "certificate_hash": "f2294880919370566529d8a35c68a3fc2866d88e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDuPVeaZoJCNJqMMLPhHU-_NlkO9L3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356669424919-sf5ph416fap6dt76l22c1uuu66l8s3sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

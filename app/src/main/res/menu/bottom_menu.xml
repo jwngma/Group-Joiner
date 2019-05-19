@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/bot_home"
+        android:icon="@drawable/home_icon"/>
+    <item
+        android:title="trending"
+        android:id="@+id/bot_trending"
+        android:icon="@drawable/trending_icon"/>
+    <item
+        android:title="Chat"
+        android:id="@+id/bot_chat"
+        android:icon="@drawable/chat_icon"/>
+</menu>
